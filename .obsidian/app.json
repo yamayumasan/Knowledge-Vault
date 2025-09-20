@@ -1,0 +1,22 @@
+{
+  "newFileLocation": "current",
+  "newFileFolderPath": "",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "showFrontmatter": true,
+  "promptDelete": true,
+  "attachmentFolderPath": "attachments",
+  "useTab": false,
+  "tabSize": 2,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "autoPairMarkdown": true,
+  "vimMode": false,
+  "defaultViewMode": "preview",
+  "foldHeading": true,
+  "foldIndent": true
+}
